@@ -1,0 +1,67 @@
+—
+**Process Pattern Name:**  Resource State Regulation
+
+**Sequence Overview:**  
+- Phase 1: Acknowledging Difficulty and Setting Intentions
+- Phase 2: Tapping on Specific Challenges and Limiting Beliefs
+- Phase 3: Reframing and Shifting Perspective
+- Phase 4: Identifying and Implementing Resource State Management Strategies
+
+**Commentary:**  Gene consistently uses this pattern to help clients navigate challenging situations and emotional responses.  It appears in multiple sessions, supporting clients in managing their emotional state, reframing their perspectives, and developing practical strategies for self-care. The process begins with acknowledging the difficulty of the situation and setting positive intentions. Tapping is then used to address specific challenges and limiting beliefs. Reframing helps shift the client's perspective, and finally, practical strategies for resource state management are identified and implemented.
+
+**Tags:**  
+- Insight Density Score: 5
+- Confidence Score: 5
+- Reusability Tier: Teaching
+—
+
+—
+**Process Pattern Name:** Declarative Communication
+
+**Sequence Overview:**  
+- Phase 1: Identify Communication Breakdown/Lack of Clarity
+- Phase 2: Shift from Questions/Options to Declarative Statements
+- Phase 3: Clearly Articulate Understanding and Request Confirmation/Feedback
+- Phase 4: Set Clear Expectations for Response/Lack Thereof
+
+**Commentary:** This pattern emerges in sessions where clients struggle with unclear communication or unresponsive individuals. Gene advises shifting from asking questions to making declarative statements about the situation. This provides clarity and gives the other party something concrete to respond to.  Setting expectations about response times and potential consequences for lack of feedback helps the client maintain control and manage the situation proactively. This pattern is evident in both personal and professional contexts.
+
+**Tags:**  
+- Insight Density Score: 4
+- Confidence Score: 4
+- Reusability Tier: Teaching
+—
+
+—
+**Process Pattern Name:** Pricing Deconstruction
+
+**Sequence Overview:**  
+- Phase 1: Acknowledge Pricing Discomfort/Uncertainty
+- Phase 2: Deconstruct the Value Proposition: Experience, Expertise, Time
+- Phase 3: Separate Base Costs from Additional Services/Complexities
+- Phase 4: Establish Clear Boundaries and Consent-Based Transactions
+
+**Commentary:** This pattern consistently arises in sessions involving pricing challenges, particularly for service-based businesses. Gene guides clients to deconstruct their pricing by recognizing the value of their experience, expertise, and time. He emphasizes separating base costs from additional services or complexities.  This framework helps clients establish clear boundaries, price their services confidently, and engage in consent-based transactions.  It’s a recurring theme applicable across various professions and service offerings.
+
+**Tags:**  
+- Insight Density Score: 5
+- Confidence Score: 5
+- Reusability Tier: Teaching
+—
+
+—
+**Process Pattern Name:** ?? Synthesized: Meta-Cognitive Awareness
+
+**Sequence Overview:**  
+- Phase 1: Client expresses dissatisfaction with own emotional response.
+- Phase 2: Gene validates the client’s observation and highlights the meta-cognitive aspect.
+- Phase 3: Discussion about the difference between the event and the meaning assigned to it.
+- Phase 4: Emphasis on the sophistication of recognizing and questioning one's own response.
+
+**Commentary:** ?? Synthesized: This pattern is not explicitly named by Gene but is observed across multiple sessions. It focuses on developing meta-cognitive awareness, where clients step back and analyze their own reactions to situations rather than just the situations themselves. Gene emphasizes this as a marker of growth in the transformational process, shifting the focus from simply addressing the immediate issue to understanding the underlying emotional and cognitive processes.  This recurring pattern encourages self-reflection and deeper understanding of personal responses.
+
+**Tags:**  
+- Insight Density Score: 4
+- Confidence Score: 4
+- Reusability Tier: Teaching
+

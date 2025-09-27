@@ -1,0 +1,71 @@
+—
+**Framework Name:** “Three Factors in Pricing Services”
+
+**Step-by-Step Breakdown:**
+- Factor 1: Experience
+- Factor 2: Expertise
+- Factor 3: Time
+
+**Supporting Quote:**  "So, so, so as we're thinking about, like, as we engage with something like this, there are, there are three things that they are hiring you for, okay? Mm-hmm. They're, they're hiring you for your experience. Mm-hmm. They're hiring you for your expertise and they're hiring you for your time."
+
+**Commentary:** Explicitly stated by Gene in the context of advising Maggie on pet-sitting rates.  He emphasizes that clients are paying for the totality of these three factors, not just the in-the-moment service delivery.
+
+**Tags:**
+- Insight Density Score: 4
+- Confidence Score: 5
+- Reusability Tier: Teaching
+
+
+—
+**Framework Name:** “Three Metrics for Evaluating Progress”
+
+**Step-by-Step Breakdown:**
+- Metric 1: Frequency
+- Metric 2: Intensity
+- Metric 3: Duration
+
+**Supporting Quote:** "And, and the thing that's important to recognize, again, there's three ways that we evaluate progress, frequency, intensity, and duration."
+
+**Commentary:** Explicitly labeled as "three ways that we evaluate progress," clearly presented as a teaching point applicable beyond the immediate context.
+
+**Tags:**
+- Insight Density Score: 5
+- Confidence Score: 5
+- Reusability Tier: Teaching
+
+
+—
+**Framework Name:** “Two Types of Emotional Spins”
+
+**Step-by-Step Breakdown:**
+- Type 1: The Record Player (repeating the same emotion)
+- Type 2: The Ball of Yarn (unraveling the emotion)
+
+
+**Supporting Quote:**  "There's two ways that I'm caught in an emotional spin. One is a record player where it's just playing the same song over and over and over again. The other way I can get caught in an emotional spin is a ball of yarn. And as the ball of yarn spins, it's getting smaller and smaller and smaller and smaller."
+
+**Commentary:**  Presented as a clear analogy to understand how we get “caught” in emotional responses. This offers a memorable visualization for different emotional processing patterns.
+
+**Tags:**
+- Insight Density Score: 4
+- Confidence Score: 5
+- Reusability Tier: Teaching
+
+
+—
+**Framework Name:** “Responding to Difficult Communication”
+
+**Step-by-Step Breakdown:**
+- Step 1: Make clear statements about your understanding.
+- Step 2:  Explicitly request correction or confirmation.
+- Step 3: State the assumption you will make if no feedback is received.
+- Step 4: Document these communications for future reference.
+
+**Supporting Quote:**  "And, and, and, and, and so, you know, and so one of the things you can do when we're, we're trying to communicate with folks and there's not a back and forth inside of that in that particular way, one of the things you can do is do exactly what you said you can write down…So then you're in a circumstance where you know, you've stated where you are and you can show, hey, this is the con. Like this is part of the conversation we engaged with and I didn't get feedback along the way."
+
+**Commentary:**  While not formally named, this framework is presented as a strategic sequence for managing unclear communication, especially in professional contexts.
+
+**Tags:**
+- Insight Density Score: 4
+- Confidence Score: 5
+- Reusability Tier: Teaching

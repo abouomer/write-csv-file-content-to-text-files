@@ -1,0 +1,74 @@
+## ?? Transcript Mining – Context of Healing and Transformation
+
+### ?? Quotes & Observations
+- "The way I find the story that is about the meaning that they are giving is by starting with the emotion about the issue."
+  - **Commentary:** Direct insight into therapeutic process and context
+  - **Tags:**  
+    - Insight Density Score: 9
+    - Confidence Score: 9
+    - Reusability Tier: Teaching
+
+- "Sometimes our resource state impacts us...I am a human that has been impacted by my lived experience, which means I was less good at that thing today."
+  - **Commentary:** Clear explanation of how context affects performance
+  - **Tags:**  
+    - Insight Density Score: 8
+    - Confidence Score: 9
+    - Reusability Tier: Teaching
+
+### ?? Frameworks & Conceptual Distinctions
+- **Problem-Solving Prerequisites:**
+  - **Description:** Do I know what to do? Do I know how to do it? Do I have the resources? Do I have the capacity? Do I have the want to?
+  - **Label as:** Explicit
+  - **Tags:**  
+    - Insight Density Score: 9
+    - Confidence Score: 9
+    - Reusability Tier: Teaching
+
+- **Emotional Response Framework:**
+  - **Description:** Goal is not absence of emotion but "proportionate, well-informed emotional response"
+  - **Label as:** Explicit
+  - **Tags:**  
+    - Insight Density Score: 8
+    - Confidence Score: 9
+    - Reusability Tier: Teaching
+
+### ?? Examples, Metaphors & Stories
+- **10-Meter Wall for 9cm of Water:**
+  - **Form:** Metaphor
+  - **Why It's Useful:** Illustrates disproportionate protective responses
+  - **Tags:**  
+    - Insight Density Score: 9
+    - Confidence Score: 9
+    - Reusability Tier: Hook
+
+- **IV Line Drawing Example:**
+  - **Form:** Example
+  - **Why It's Useful:** Shows how context affects performance without reflecting core competency
+  - **Tags:**  
+    - Insight Density Score: 7
+    - Confidence Score: 8
+    - Reusability Tier: Teaching
+
+### ?? Emerging Patterns & Latent Ideas
+- **Resource State Impact:**
+  - **Pattern of Appearance:** Multiple mentions across different contexts
+  - **Latent Teaching:** How varying energy levels and circumstances affect healing capacity
+  - **Tags:**  
+    - Insight Density Score: 8
+    - Confidence Score: 9
+    - Reusability Tier: Teaching
+
+---
+
+### ?? Synthesis Note:
+The transcript reveals several key themes about context in healing:
+
+1. Resource state is fundamental - our capacity to engage, heal, and transform is directly tied to our current energy and circumstance.
+
+2. Environmental triggers can reactivate old patterns - physical spaces and situations can automatically shift us into previous emotional states.
+
+3. Safety is contextual - what feels safe in one context may not in another, requiring flexible response patterns.
+
+4. The healing relationship itself provides context - how safe someone feels with a practitioner shapes their ability to engage.
+
+These themes suggest structuring training around understanding both internal context (resource state, emotional capacity) and external context (environment, relationships, timing) in healing work.

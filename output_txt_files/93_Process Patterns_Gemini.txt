@@ -1,0 +1,76 @@
+—
+**Process Pattern Name:**  
+“Point-to-Point Tapping”
+
+**Sequence Overview:**  
+- Phase 1: Identify the distressing situation/thought/feeling.
+- Phase 2: Begin tapping specific points while verbalizing the distress and its associated thoughts and feelings. Gene guides this process, often echoing the speaker's words and adding reframes or perspectives.
+- Phase 3: Check in with the speaker, asking "What do you notice?" to gauge the shift in their emotional state and thought patterns.
+- Phase 4: Repeat phases 2 and 3 as needed, often delving deeper into the underlying issues or exploring related aspects of the initial distress.
+
+**Commentary:**  
+Gene uses this point-to-point tapping method consistently throughout the session with each individual. The tapping sequence serves as a framework for acknowledging, exploring, and reframing distressing thoughts and feelings.  It creates a structured space for processing emotions while also introducing new perspectives that can lead to shifts in understanding and reduced emotional intensity. The repeated check-ins allow Gene to track progress and adjust the tapping sequence as needed, demonstrating the iterative nature of this process.
+
+**Tags:**  
+- Insight Density Score: 5
+- Confidence Score: 5
+- Reusability Tier: Teaching
+—
+
+
+—
+**Process Pattern Name:**  
+“Recursive Exploration” ?? Synthesized
+
+**Sequence Overview:**  
+- Phase 1: Initial exploration of the presenting issue through tapping and dialogue.
+- Phase 2: Identification of related or underlying issues that emerge during the tapping process.
+- Phase 3: Returning to the initial issue after exploring connected themes, observing any shifts or changes in perspective.
+
+**Commentary:**  
+This pattern is synthesized from Gene's interactions with several participants. Although not explicitly named, it reflects Gene's approach to addressing complex emotional challenges.  This recursive movement allows for a deeper understanding of how seemingly disparate aspects of a person's experience might be connected. It highlights the interconnectedness of emotions and how addressing one issue can illuminate and influence others. Gene uses this to show how addressing one issue can create a ripple effect of transformation across other aspects of life.  The pattern is evident in the sessions with Laurel (fear of falling), Eden (fire trauma, fear of driving, loss of home/dog), and Anne (family heirlooms).
+
+
+**Tags:**  
+- Insight Density Score: 4
+- Confidence Score: 4
+- Reusability Tier: Teaching
+—
+
+
+—
+**Process Pattern Name:**  
+“Two Minds Reframe”
+
+**Sequence Overview:**
+- Phase 1: Identify a situation where the individual feels conflicted or pulled in different directions.
+- Phase 2: Acknowledge the discomfort or perceived weakness of holding two opposing viewpoints or emotions simultaneously.
+- Phase 3: Reframe “two minds” as a strength, emphasizing the ability to hold multiple perspectives and make thoughtful, integrated decisions.
+
+**Commentary:**  
+Gene uses the "Two Minds Reframe" specifically with Linda, normalizing the experience of feeling ambivalent and reframing it as a valuable skill. This challenges the societal pressure to be decisive and encourages a more nuanced and flexible approach to decision-making. It also promotes self-acceptance by validating the full spectrum of human emotion and thought.  The reframing suggests that holding two minds allows for greater depth of understanding and more thoughtful action.
+
+**Tags:**  
+- Insight Density Score: 3
+- Confidence Score: 5
+- Reusability Tier: Teaching
+—
+
+
+—
+**Process Pattern Name:**
+“Course Tuning vs. Fine Tuning” ?? Synthesized
+
+**Sequence Overview:**
+- Phase 1: Identify situations where the individual is overwhelmed by details or feels lost in the complexity of a problem.
+- Phase 2: Introduce the concept of "course tuning"—zooming out to see the bigger picture before focusing on specifics.
+- Phase 3: Explain how course tuning can clarify the overall landscape of a challenge, enabling a more effective approach to fine-tuning details later.
+
+**Commentary:**  
+This process, synthesized from observations throughout the session (especially with Brad and Anne), is especially relevant when dealing with complex, multifaceted issues. It encourages a strategic approach to problem-solving by prioritizing a broader understanding before getting bogged down in details.  This is crucial for managing overwhelm and developing a more effective plan of action. By differentiating between these two modes of engagement, Gene provides a framework for approaching challenges with greater clarity and less anxiety.
+
+**Tags:**  
+- Insight Density Score: 4
+- Confidence Score: 4
+- Reusability Tier: Teaching
+—

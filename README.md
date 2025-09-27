@@ -1,1 +1,1 @@
-This pyhton script is ceareted to write first column of csv file to texet files and use the other three ones to name these files.it will iginore any row has empty cell 
+The objective of this Python script is to extract data from the first column of a CSV file and save it into separate text files. These files are named using the values from the remaining three columns. The script includes logic to ignore any row where a cell is empty. 

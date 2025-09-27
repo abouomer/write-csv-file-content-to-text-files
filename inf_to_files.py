@@ -2,7 +2,7 @@
 import csv
 import os
 
-# Path to your CSV file
+# Path to CSV file
 csv_path = 'my_data.csv'
 
 # Create a directory to store the text files
@@ -21,7 +21,6 @@ with open(csv_path, newline='', encoding='utf-8') as csvfile:
         text_content = row[0]
         file_name = f"{c_row[0]}_{c_row[1]}_{c_row[2]}.txt"
         file_path = os.path.join(output_dir, file_name)
-        print(file_name,file_path)
         # Write content to text file
         with open(file_path, 'w', encoding='utf-8') as txt_file:
             txt_file.write(text_content)
